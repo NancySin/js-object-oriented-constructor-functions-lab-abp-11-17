@@ -4,5 +4,4 @@ Function Scooter( year, color, model){
  this.color = color
  this.model = model
  }
-
- 
+ let scooter =newScooter( year, color, model)
